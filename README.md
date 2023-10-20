@@ -5,7 +5,17 @@ Bem-vindo(a) ao **OMNITRIX**, a linguagem do Ben 10!
 ☄️ Esse é um projeto sobre criação de linguagens, contruído por um compilador em Python e um interpretador em JavaScript. 
 
 ### Funcionamento
-Quais são as funções que podem ser usadas no **OMNITRIX**?
+Para iniciar, entre na pasta ./Python e rode o comando:
+
+***python main.py***
+
+Em seguida, entre na pasta ./JavaScript e execute o comando:
+
+***npm start***
+
+<br>
+
+E quais são as funções que podem ser usadas no **OMNITRIX**?
 
 
 🛸 ***Print***: AlienX(informação)
