@@ -1,5 +1,5 @@
 # Omnitrix 👽⌚
-Bem-vindo(a) ao **OMNITRIX**, a linguagem do Ben 10 usando Python e JavaScript!
+Bem-vindo(a) ao **OMNITRIX**, a linguagem do Ben 10!
 
 ## Descrição
 Esse é um projeto sobre criação de linguagens, contruído por um compilador em Python e um interpretador em JavaScript.
