@@ -14,6 +14,12 @@ Quais são as funções que podem ser usadas no **OMNITRIX**?
 
 *O uso de aspas e indentação não é necessário!
 
+```
+AlienX(hello world!)
+4Bracos(4,4,4,4)
+```
+
+
 
 #### Colaboradores
 @daynepacheco9 🌌
