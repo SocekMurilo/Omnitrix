@@ -8,7 +8,7 @@ Bem-vindo(a) ao **OMNITRIX**, a linguagem do Ben 10!
 Quais são as funções que podem ser usadas no **OMNITRIX**?
 
 
-🛸 ***Print***: AlienX('informação')
+🛸 ***Print***: AlienX(informação)
 
 🛸 ***Soma***: 4Bracos(4,4,4,4)
 
