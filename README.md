@@ -12,9 +12,7 @@ Quais são as funções que podem ser usadas no **OMNITRIX**?
 
 🛸 ***Soma***: 4Bracos(4,4,4,4)
 
-🛸 ***If***: FogoSelvagem 
-
-🛸 ***Else***: Chama
+*O uso de aspas e indentação não é necessário!
 
 
 #### Colaboradores
