@@ -1,4 +1,6 @@
-printa('123')
+AlienX(Hello World!)
+4Bracos(2, 3, 5)
+AlienX(A)
+AlienX(B)
+AlienX(C)
 
-soma(2 + 1)
-soma ('2' + '2')
